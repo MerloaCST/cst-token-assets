@@ -2,8 +2,6 @@
   "name": "Code du Succès Token",
   "symbol": "CST",
   "description": "Token solidaire à vocation sociale, dédié au financement de projets éducatifs et humanitaires, notamment la création d’écoles pour les enfants orphelins et démunis.",
-  "image": "https://raw.githubusercontent.com/MerloaCST/cst-token-assets/0c74e476272e88c02b7b1e0a36b661261ba1c887/assets/7158nLvaRKN3NZDBNZGmsvz6C7k8Q53dBTa8mwG85zUi/logo.png",
-  "extensions": {
-    "website": "https://codesucces.my.canva.site/code-du-succes-token"
-  }
+  "image": "https://raw.githubusercontent.com/MerloaCST/cst-token-assets/main/assets/2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54/logo.png",
+  "mint": "2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54"
 }
