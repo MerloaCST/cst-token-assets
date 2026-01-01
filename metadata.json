@@ -1,7 +1,19 @@
 {
-  "name": "Code du Succès Token",
+  "chainId": 101,
+  "address": "2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54",
   "symbol": "CST",
-  "description": "Token solidaire à vocation sociale, dédié au financement de projets éducatifs et humanitaires, notamment la création d’écoles pour les enfants orphelins et démunis.",
-  "image": "https://raw.githubusercontent.com/MerloaCST/cst-token-assets/main/assets/2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54/logo.png",
-  "mint": "2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54"
+  "name": "Code du Succès Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/MerloaCST/cst-token-assets/main/assets/2VoUFVPNirjQPymRmW4xXJRTvA4pXvwzQ7nKRyd6zw54/logo.png",
+  "tags": ["social", "education", "humanitarian"],
+  "extensions": {
+    "description": "Token solidaire à vocation sociale, dédié au financement de projets éducatifs et humanitaires, notamment la création d’écoles pour les enfants orphelins et démunis.",
+    "website": "https://codesucces.my.canva.site/code-du-succes-token",
+    "twitter": "https://x.com/CST16806",
+    "github": "https://github.com/MerloaCST/cst-token-assets",
+    "instagram": "https://www.instagram.com/cstoken/",
+    "telegram": "https://t.me/+pbJ7B22iwR45YWE0",
+    "whasapp": "https://chat.whatsapp.com/HkkGZXINSQb6HaHXgBugIg"
+
+  }
 }
